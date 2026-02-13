@@ -1,7 +1,6 @@
 class Vimdash < Formula
   desc "Interactive way to learn git motiions and editing!"
   homepage "https://git.willfarrell.me/willfarrell/vimdash"
-  url "https://git.willfarrell.me/willfarrell/vimdash/-/archive/v1.0.2/vimdash-v1.0.2.tar.gz"
   license "MIT"
 
   on_macos do
